@@ -1,0 +1,6 @@
+class HellWorld{
+pulic static void main (String [] args)
+{ system.out.println("hello world 1");
+  system.out.println("hello world 2");
+  system.out.println("hello world 3");
+}}
